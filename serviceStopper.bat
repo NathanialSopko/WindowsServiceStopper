@@ -10,7 +10,7 @@ echo "We didn't find the service"
 pause
 exit
 :end_Success
-	echo The TdmService has been disabled, this will fix your file explorer and make your computer feel faster if you have noticed any of those issues!
+	echo The %service% has been disabled
 	echo(
 	echo You will need to restart your computer for the changes to take affect, thanks!
 	echo(
